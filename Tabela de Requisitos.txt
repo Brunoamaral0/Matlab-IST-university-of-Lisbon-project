@@ -1,0 +1,47 @@
+Atenção: Não altere o nome deste ficheiro, nem o seu formato (texto simples), nem o conteúdo que já está escrito. Apenas, acrescente o que é pedido.
+
+
+Requisito	Satisfação	Observação
+
+rfm1	 	1
+
+rim1		1
+rim2		1
+rim3		1
+rim4		1
+rim5		1
+rim6		1
+rim7		1
+rim8		0.8             Tirando oa caminhos da origem,há uma aleatoridade na matriz resto,então os caminhos soltos que nao partem da origem ,por vezes,nao ficam idênticos aos do caso rim6
+rim9		1               Para gravar o diretório tem que estar certo
+rim10		1
+rim11		1
+rim12		1
+rim13		1
+rim14		1
+rim15		1
+rim16		1
+rim17		1
+rim18		1
+rim19		1
+
+ram1		1		Este requisito fica assim, sem valor.
+
+rem1		1
+rem2		1
+rem3		1
+
+ric1		1
+ric2		1
+ric3		1
+ric4		0.3           se escolher ficheiro nao existente aborta
+ric5		1
+ric6		1
+ric7		1
+ric8		1
+ric9		1
+ric10		1
+
+rec1		1
+
+rfe1		0

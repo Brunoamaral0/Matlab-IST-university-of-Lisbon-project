@@ -1,0 +1,12 @@
+Caso anexo1
+
+Árvore de ligações mínima com origem em  Lindoso  
+-----------------------------------------------------------------------
+ Lindoso  (2  km)   Aldeia Boneca (3  km)   PiÃ£o (4  km)   Alvorada 
+ Lindoso  (3  km)  Vila Nova 
+ Vila LÃ³  (2  km)   PiÃ£o 
+ Santana  (2  km)   Clarim 
+ Clarim  (1  km)   Aldeia Boneca 
+
+
+Comprimento total da ALM = 17  km 
