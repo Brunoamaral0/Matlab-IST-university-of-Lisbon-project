@@ -1,3 +1,5 @@
+                                                            SELF MADE MATLAB PROJECT OR 4 GROUP
+                                                                   
 Project carried out within the scope of the computing and Programming discipline with the objective
 solving the minimum link tree(ALM) problem, using the kruskal function
 Updated in the program that is requested.
@@ -19,13 +21,13 @@ distances between villages, arranged in a matrix like the following file anexo1.
 2-Perform Calculations: Invocation of the Kruskal.m function to obtain the change matrix:
 change = kruskal(matrix)
 change =
-4 5 1
-2 8 2
-3 4 2
-5 6 2
-1 3 3
-2 4 3
-2 7 4
+[4 5 1;
+2 8 2;
+3 4 2;
+5 6 2;
+1 3 3;
+2 4 3;
+2 7 4]
 
 -3-Show the ALM: Invocation of the results function, a function that has as parameters
 input the number or town chosen by the user and also the change matrix, resulting from the
