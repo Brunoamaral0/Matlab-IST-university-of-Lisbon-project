@@ -2,6 +2,8 @@
                                                                    
 16/20 grade
 
+Quick summary
+
 Project carried out within the scope of the computing and Programming discipline with the objective
 solving the minimum link tree(ALM) problem, using the kruskal function
 Updated in the program that is requested.
