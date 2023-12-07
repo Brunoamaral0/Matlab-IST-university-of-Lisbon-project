@@ -1,5 +1,7 @@
-                                                SELF MADE MATLAB PROJECT 16/20 grade      OR 4 GROUP
+                                                SELF MADE MATLAB PROJECT   OR 4 students GROUP
                                                                    
+16/20 grade
+
 Project carried out within the scope of the computing and Programming discipline with the objective
 solving the minimum link tree(ALM) problem, using the kruskal function
 Updated in the program that is requested.
